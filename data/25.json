@@ -1,0 +1,313 @@
+{
+  "1": {
+    "wood": 5,
+    "stone": 5,
+    "clay": 1,
+    "screw": 1,
+    "petal": 1
+  },
+
+  "2": {
+    "stone": 25,
+    "memoria_kanade": 2,
+    "memoria_mafuyu": 2,
+    "memoria_ena": 2,
+    "memoria_mizuki": 2
+  },
+
+  "3": {
+    "wood": 20,
+    "heavy_wood": 10,
+    "light_wood": 10,
+    "cotton": 10,
+    "linen": 10
+  },
+
+  "4": {
+    "stone": 50,
+    "copper": 7,
+    "iron": 7,
+    "clay": 7,
+    "memoria_miku": 2
+  },
+
+  "5": {
+    "wood": 25,
+    "sap": 7,
+    "stone": 50,
+    "glass": 7,
+    "crystal": 7
+  },
+
+  "6": {
+    "wood": 50,
+    "memoria_kanade": 3,
+    "memoria_mafuyu": 3,
+    "memoria_ena": 3,
+    "memoria_mizuki": 3
+  },
+
+  "7": {
+    "nail": 10,
+    "motor": 10,
+    "battery": 10,
+    "light": 10,
+    "board": 10
+  },
+
+  "8": {
+    "wood": 50,
+    "heavy_wood": 25,
+    "light_wood": 25,
+    "sap": 25,
+    "memoria_miku": 3
+  },
+
+  "9": {
+    "crystal": 25,
+    "yugiri": 3,
+    "diamond": 3,
+    "clover": 3,
+    "sound": 3
+  },
+
+  "10": {
+    "petal": 25,
+    "memoria_kanade": 5,
+    "memoria_mafuyu": 5,
+    "memoria_ena": 5,
+    "memoria_mizuki": 5
+  },
+
+  "11": {
+    "wood": 100,
+    "copper": 25,
+    "iron": 25,
+    "clay": 25,
+    "glass": 25
+  },
+
+  "12": {
+    "cotton": 25,
+    "linen": 25,
+    "petal": 25,
+    "clover": 3,
+    "memoria_miku": 5
+  },
+
+  "13": {
+    "wood": 100,
+    "heavy_wood": 30,
+    "light_wood": 30,
+    "sap": 30,
+    "yugiri": 3
+  },
+
+  "14": {
+    "screw": 30,
+    "memoria_kanade": 7,
+    "memoria_mafuyu": 7,
+    "memoria_ena": 7,
+    "memoria_mizuki": 7
+  },
+
+  "15": {
+    "nail": 30,
+    "motor": 30,
+    "battery": 30,
+    "light": 30,
+    "board": 30
+  },
+
+  "16": {
+    "screw": 30,
+    "nail": 30,
+    "plastic": 30,
+    "sound": 3,
+    "memoria_miku": 7
+  },
+
+  "17": {
+    "stone": 150,
+    "copper": 30,
+    "iron": 30,
+    "clay": 30,
+    "glass": 30
+  },
+
+  "18": {
+    "sap": 40,
+    "memoria_kanade": 10,
+    "memoria_mafuyu": 10,
+    "memoria_ena": 10,
+    "memoria_mizuki": 10
+  },
+
+  "19": {
+    "crystal": 50,
+    "yugiri": 8,
+    "diamond": 8,
+    "clover": 8,
+    "sound": 8
+  },
+
+  "20": {
+    "wood": 40,
+    "heavy_wood": 40,
+    "light_wood": 40,
+    "sap": 40,
+    "memoria_miku": 10
+  },
+
+  "21": {
+    "nail": 40,
+    "motor": 40,
+    "battery": 40,
+    "light": 40,
+    "board": 40
+  },
+
+  "22": {
+    "nail": 40,
+    "memoria_kanade": 13,
+    "memoria_mafuyu": 13,
+    "memoria_ena": 13,
+    "memoria_mizuki": 13
+  },
+
+  "23": {
+    "stone": 200,
+    "copper": 40,
+    "iron": 40,
+    "clay": 40,
+    "glass": 40
+  },
+
+  "24": {
+    "screw": 40,
+    "nail": 40,
+    "plastic": 40,
+    "sound": 4,
+    "memoria_miku": 13
+  },
+
+  "25": {
+    "clay": 50,
+    "cotton": 50,
+    "linen": 50,
+    "petal": 50,
+    "clover": 5
+  },
+
+  "26": {
+    "copper": 50,
+    "memoria_kanade": 15,
+    "memoria_mafuyu": 15,
+    "memoria_ena": 15,
+    "memoria_mizuki": 15
+  },
+
+  "27": {
+    "wood": 150,
+    "heavy_wood": 50,
+    "light_wood": 50,
+    "sap": 50,
+    "yugiri": 5
+  },
+
+  "28": {
+    "copper": 50,
+    "iron": 50,
+    "glass": 50,
+    "crystal": 50,
+    "memoria_miku": 15
+  },
+
+  "29": {
+    "crystal": 75,
+    "yugiri": 10,
+    "diamond": 10,
+    "clover": 10,
+    "sound": 10
+  },
+
+  "30": {
+    "petal": 50,
+    "memoria_kanade": 18,
+    "memoria_mafuyu": 18,
+    "memoria_ena": 18,
+    "memoria_mizuki": 18
+  },
+
+  "31": {
+    "stone": 250,
+    "copper": 50,
+    "iron": 50,
+    "clay": 50,
+    "glass": 50
+  },
+
+  "32": {
+    "linen": 50,
+    "cotton": 50,
+    "petal": 50,
+    "clover": 5,
+    "memoria_miku": 18
+  },
+
+  "33": {
+    "plastic": 50,
+    "motor": 50,
+    "battery": 50,
+    "light": 50,
+    "board": 50
+  },
+
+  "34": {
+    "light_wood": 50,
+    "memoria_kanade": 19,
+    "memoria_mafuyu": 19,
+    "memoria_ena": 19,
+    "memoria_mizuki": 19
+  },
+
+  "35": {
+    "wood": 50,
+    "light_wood": 50,
+    "sap": 50,
+    "yugiri": 5,
+    "memoria_miku": 19
+  },
+
+  "36": {
+    "clay": 50,
+    "cotton": 50,
+    "linen": 50,
+    "petal": 50,
+    "sound": 5
+  },
+
+  "37": {
+    "iron": 50,
+    "memoria_kanade": 20,
+    "memoria_mafuyu": 20,
+    "memoria_ena": 20,
+    "memoria_mizuki": 20
+  },
+
+  "38": {
+    "copper": 50,
+    "iron": 50,
+    "glass": 50,
+    "crystal": 50,
+    "memoria_miku": 20
+  },
+
+  "39": {
+    "crystal": 100,
+    "yugiri": 15,
+    "diamond": 15,
+    "clover": 15,
+    "sound": 15
+  }
+}

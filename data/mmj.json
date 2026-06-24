@@ -1,0 +1,312 @@
+{
+  "1": {
+    "stone": 5,
+    "clay": 1,
+    "screw": 1,
+    "petal": 1
+  },
+
+  "2": {
+    "stone": 25,
+    "memoria_minori": 2,
+    "memoria_haruka": 2,
+    "memoria_airi": 2,
+    "memoria_shizuku": 2
+  },
+
+  "3": {
+    "wood": 20,
+    "heavy_wood": 10,
+    "light_wood": 10,
+    "cotton": 10,
+    "linen": 10
+  },
+
+  "4": {
+    "copper": 7,
+    "iron": 7,
+    "clay": 7,
+    "memoria_miku": 2,
+    "memoria_rin": 2
+  },
+
+  "5": {
+    "wood": 25,
+    "sap": 7,
+    "stone": 50,
+    "glass": 7,
+    "quartz": 7
+  },
+
+  "6": {
+    "wood": 50,
+    "memoria_minori": 3,
+    "memoria_haruka": 3,
+    "memoria_airi": 3,
+    "memoria_shizuku": 3
+  },
+
+  "7": {
+    "nail": 10,
+    "motor": 10,
+    "battery": 10,
+    "light": 10,
+    "board": 10
+  },
+
+  "8": {
+    "heavy_wood": 25,
+    "light_wood": 25,
+    "sap": 25,
+    "memoria_miku": 3,
+    "memoria_rin": 3
+  },
+
+  "9": {
+    "quartz": 25,
+    "yugiri": 3,
+    "diamond": 3,
+    "clover": 3,
+    "melody": 3
+  },
+
+  "10": {
+    "petal": 25,
+    "memoria_minori": 4,
+    "memoria_haruka": 4,
+    "memoria_airi": 4,
+    "memoria_shizuku": 4
+  },
+
+  "11": {
+    "wood": 100,
+    "copper": 25,
+    "iron": 25,
+    "clay": 25,
+    "glass": 25
+  },
+
+  "12": {
+    "cotton": 25,
+    "linen": 25,
+    "clover": 3,
+    "memoria_miku": 4,
+    "memoria_rin": 4
+  },
+
+  "13": {
+    "wood": 100,
+    "heavy_wood": 30,
+    "light_wood": 30,
+    "sap": 30,
+    "yugiri": 3
+  },
+
+  "14": {
+    "screw": 30,
+    "memoria_minori": 6,
+    "memoria_haruka": 6,
+    "memoria_airi": 6,
+    "memoria_shizuku": 6
+  },
+
+  "15": {
+    "nail": 30,
+    "motor": 30,
+    "battery": 30,
+    "light": 30,
+    "board": 30
+  },
+
+  "16": {
+    "screw": 30,
+    "plastic": 30,
+    "melody": 3,
+    "memoria_miku": 6,
+    "memoria_rin": 6
+  },
+
+  "17": {
+    "stone": 150,
+    "copper": 30,
+    "iron": 30,
+    "clay": 30,
+    "glass": 30
+  },
+
+  "18": {
+    "sap": 40,
+    "memoria_minori": 8,
+    "memoria_haruka": 8,
+    "memoria_airi": 8,
+    "memoria_shizuku": 8
+  },
+
+  "19": {
+    "quartz": 50,
+    "yugiri": 8,
+    "diamond": 8,
+    "clover": 8,
+    "melody": 8
+  },
+
+  "20": {
+    "heavy_wood": 40,
+    "sap": 40,
+    "yugiri": 4,
+    "memoria_miku": 8,
+    "memoria_rin": 8
+  },
+
+  "21": {
+    "screw": 40,
+    "motor": 40,
+    "battery": 40,
+    "light": 40,
+    "board": 40
+  },
+
+  "22": {
+    "nail": 40,
+    "memoria_minori": 10,
+    "memoria_haruka": 10,
+    "memoria_airi": 10,
+    "memoria_shizuku": 10
+  },
+
+  "23": {
+    "stone": 200,
+    "copper": 40,
+    "iron": 40,
+    "clay": 40,
+    "glass": 40
+  },
+
+  "24": {
+    "nail": 40,
+    "plastic": 40,
+    "melody": 4,
+    "memoria_miku": 10,
+    "memoria_rin": 10
+  },
+
+  "25": {
+    "clay": 50,
+    "cotton": 50,
+    "linen": 50,
+    "petal": 50,
+    "clover": 5
+  },
+
+  "26": {
+    "copper": 50,
+    "memoria_minori": 12,
+    "memoria_haruka": 12,
+    "memoria_airi": 12,
+    "memoria_shizuku": 12
+  },
+
+  "27": {
+    "wood": 150,
+    "heavy_wood": 50,
+    "light_wood": 50,
+    "sap": 50,
+    "yugiri": 5
+  },
+
+  "28": {
+    "copper": 50,
+    "iron": 50,
+    "glass": 50,
+    "memoria_miku": 12,
+    "memoria_rin": 12
+  },
+
+  "29": {
+    "quartz": 75,
+    "yugiri": 10,
+    "diamond": 10,
+    "clover": 10,
+    "melody": 10
+  },
+
+  "30": {
+    "petal": 50,
+    "memoria_minori": 15,
+    "memoria_haruka": 15,
+    "memoria_airi": 15,
+    "memoria_shizuku": 15
+  },
+
+  "31": {
+    "stone": 250,
+    "copper": 50,
+    "iron": 50,
+    "clay": 50,
+    "glass": 50
+  },
+
+  "32": {
+    "linen": 50,
+    "cotton": 50,
+    "clover": 5,
+    "memoria_miku": 15,
+    "memoria_rin": 15
+  },
+
+  "33": {
+    "plastic": 50,
+    "motor": 50,
+    "battery": 50,
+    "light": 50,
+    "board": 50
+  },
+
+  "34": {
+    "light_wood": 50,
+    "memoria_minori": 16,
+    "memoria_haruka": 16,
+    "memoria_airi": 16,
+    "memoria_shizuku": 16
+  },
+
+  "35": {
+    "heavy_wood": 50,
+    "light_wood": 50,
+    "yugiri": 5,
+    "memoria_miku": 16,
+    "memoria_rin": 16
+  },
+
+  "36": {
+    "clay": 50,
+    "cotton": 50,
+    "linen": 50,
+    "petal": 50,
+    "melody": 5
+  },
+
+  "37": {
+    "iron": 50,
+    "memoria_minori": 17,
+    "memoria_haruka": 17,
+    "memoria_airi": 17,
+    "memoria_shizuku": 17
+  },
+
+  "38": {
+    "copper": 50,
+    "iron": 50,
+    "glass": 50,
+    "memoria_miku": 17,
+    "memoria_rin": 17
+  },
+
+  "39": {
+    "quartz": 100,
+    "yugiri": 15,
+    "diamond": 15,
+    "clover": 15,
+    "melody": 15
+  }
+}

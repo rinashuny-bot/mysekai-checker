@@ -1,0 +1,434 @@
+/* =========================
+   全体
+========================= */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f5f5f5;
+  color: #222;
+}
+
+/* =========================
+   ヘッダー
+========================= */
+
+header {
+  background: #2c3e50;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+/* =========================
+   セクション共通
+========================= */
+
+section {
+  background: white;
+  margin: 10px;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* =========================
+   ユニットボタン
+========================= */
+
+#unitButtons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+#unitButtons button {
+  flex: 1 1 120px;
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  background: #3498db;
+  color: white;
+  cursor: pointer;
+}
+
+#unitButtons button:hover {
+  background: #2980b9;
+}
+
+/* =========================
+   入力
+========================= */
+
+input[type="number"] {
+  width: 100px;
+  padding: 5px;
+  margin: 5px 0;
+}
+
+/* ボタン */
+button {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 8px;
+  background: #27ae60;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1e8449;
+}
+
+/* =========================
+   所持素材
+========================= */
+
+.material-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.material-row label {
+  flex: 1;
+}
+
+/* =========================
+   結果エリア（超重要）
+========================= */
+
+.result-box {
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  background: #fafafa;
+}
+
+.result-box h3 {
+  margin-top: 0;
+}
+
+/* 不足だけ強調 */
+.shortage-item {
+  color: #c0392b;
+  font-weight: bold;
+}
+
+/* =========================
+   フッター
+========================= */
+
+footer {
+  text-align: center;
+  padding: 10px;
+  font-size: 12px;
+  color: #777;
+}
+
+/* =========================
+   スマホ対応
+========================= */
+
+@media (max-width: 600px) {
+  section {
+    margin: 5px;
+    padding: 10px;
+  }
+
+  #unitButtons {
+    flex-direction: column;
+  }
+
+  #unitButtons button {
+    width: 100%;
+  }
+
+  input[type="number"] {
+    width: 100%;
+  }
+}
+
+/* =========================
+   ユニットチェックボックス
+========================= */
+
+.unit-checkbox {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+
+  padding: 10px;
+
+  border: 1px solid #ddd;
+  border-radius: 10px;
+
+  background: #fff;
+
+  cursor: pointer;
+
+  user-select: none;
+}
+
+.unit-checkbox:hover {
+  background: #f5f8ff;
+}
+
+.unit-checkbox input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+}
+
+.unit-checkbox img {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+}
+
+/* =========================
+   ユニット一覧
+========================= */
+
+#unitButtons {
+  display: grid;
+
+  grid-template-columns:
+    repeat(
+      auto-fill,
+      minmax(220px, 1fr)
+    );
+
+  gap: 10px;
+}
+
+/* =========================
+   必要素材ブロック
+========================= */
+
+#requiredByLevel > div {
+  margin-bottom: 16px;
+
+  padding: 10px;
+
+  border: 1px solid #ddd;
+
+  border-radius: 10px;
+
+  background: #fafafa;
+}
+
+#requiredByLevel h3 {
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+/* =========================
+   素材アイコン
+========================= */
+
+.material-row img {
+  width: 22px;
+  height: 22px;
+
+  object-fit: contain;
+}
+
+/* =========================
+   合計必要素材
+========================= */
+
+#totalRequired {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+/* =========================
+   不足素材
+========================= */
+
+#missingList {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+/* =========================
+   スマホ対応
+========================= */
+
+@media (max-width: 600px) {
+
+  #unitButtons {
+    grid-template-columns: 1fr;
+  }
+
+  .unit-checkbox {
+    padding: 12px;
+  }
+
+  .unit-checkbox img {
+    width: 28px;
+    height: 28px;
+  }
+}
+
+/* =========================
+   ユニット別レベル設定
+========================= */
+
+.unit-level-box {
+  background: #fafafa;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+
+  padding: 12px;
+  margin-bottom: 10px;
+}
+
+.unit-level-box h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.unit-level-box input {
+  width: 80px;
+  margin: 0 5px;
+}
+
+/* =========================
+   ユニット別必要素材
+========================= */
+
+.unit-result-box {
+  background: #fafafa;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+
+  padding: 12px;
+  margin-bottom: 15px;
+}
+
+.unit-result-box h3 {
+  margin-top: 0;
+}
+
+.level-box {
+  margin-top: 10px;
+  padding: 10px;
+
+  border: 1px solid #eee;
+  border-radius: 8px;
+
+  background: white;
+}
+
+.level-box h4 {
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+/* =========================
+   ユニット選択
+========================= */
+
+.unit-checkbox {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+
+  padding: 10px;
+
+  border: 1px solid #ddd;
+  border-radius: 10px;
+
+  background: white;
+  cursor: pointer;
+
+  user-select: none;
+}
+
+.unit-checkbox:hover {
+  background: #f5f8ff;
+}
+
+.unit-checkbox img {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+}
+
+.unit-checkbox input {
+  width: 18px;
+  height: 18px;
+}
+
+/* =========================
+   スマホ対応
+========================= */
+
+@media (max-width: 600px) {
+
+  .unit-level-box input {
+    width: 60px;
+  }
+
+  .unit-checkbox img {
+    width: 28px;
+    height: 28px;
+  }
+
+}
+
+/* =========================
+   開閉メニュー
+========================= */
+
+details {
+  margin-top: 10px;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 18px;
+
+  padding: 10px;
+
+  background: #f5f5f5;
+
+  border-radius: 8px;
+}
+
+details[open] summary {
+  margin-bottom: 10px;
+}
+
+/* =========================
+   ユニット別必要素材
+========================= */
+
+#requiredByLevel details {
+  margin-bottom: 12px;
+}
+
+#requiredByLevel summary {
+  cursor: pointer;
+
+  padding: 10px;
+
+  background: #f0f0f0;
+
+  border-radius: 8px;
+
+  font-weight: bold;
+}
+
+#requiredByLevel details[open] summary {
+  margin-bottom: 10px;
+}

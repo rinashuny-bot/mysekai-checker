@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>マイセカイ素材チェッカー</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>マイセカイ素材チェッカー</h1>
+</header>
+
+<section>
+  <h2>ユニット選択</h2>
+  <div id="unitButtons"></div>
+</section>
+
+<section>
+  <h2>レベル設定</h2>
+
+  <div id="unitLevelSettings"></div>
+
+  <button id="calcBtn">
+    計算
+  </button>
+</section>
+
+<section>
+  <details>
+    <summary>所持素材</summary>
+    <div id="materialInputs"></div>
+  </details>
+</section>
+
+<section>
+  <details>
+    <summary>必要素材（ユニットごと）</summary>
+    <div id="requiredByLevel"></div>
+  </details>
+</section>
+
+<section>
+  <details open>
+    <summary>合計必要素材</summary>
+    <div id="totalRequired"></div>
+  </details>
+</section>
+
+<section>
+  <details open>
+    <summary>不足素材</summary>
+    <div id="missingList"></div>
+  </details>
+</section>
+
+<section>
+  <h2>共有</h2>
+  <button id="shareBtn">URLコピー</button>
+</section>
+
+<footer>
+  マイセカイ素材チェッカー
+</footer>
+
+<script src="app.js"></script>
+
+</body>
+</html>

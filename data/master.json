@@ -1,0 +1,61 @@
+{
+  "wood": "想いの木材",
+  "heavy_wood": "おもたい木材",
+  "light_wood": "かるい木材",
+  "sap": "ベタベタの樹液",
+  "yugiri": "夕桐",
+
+  "stone": "想いの石ころ",
+  "copper": "銅",
+  "iron": "鉄",
+  "clay": "粘土",
+  "glass": "きれいなガラス",
+  "diamond": "ダイヤモンド",
+  "quartz": "きらきらクォーツ",
+
+  "clover": "四葉のクローバー",
+  "petal": "花びら",
+  "linen": "さらさらリネン",
+  "cotton": "ふわふわコットン",
+
+  "screw": "ねじ",
+  "nail": "釘",
+  "plastic": "プラスチック",
+  "motor": "モーター",
+  "battery": "電池",
+  "light": "ライト",
+  "board": "電子基板",
+  "melody": "まっさらな音色",
+
+  "memoria_ichika": "スカイブルーメモリア(星野一歌)",
+  "memoria_saki": "パッションイエローメモリア(天馬咲希)",
+  "memoria_honami": "ポピーレッドメモリア(望月穂波)",
+  "memoria_shiho": "イエローグリーンメモリア(日野森志歩)",
+
+  "memoria_minori": "アプリコットメモリア(花里みのり)",
+  "memoria_haruka": "ストリクトブルーメモリア(桐谷遥)",
+  "memoria_airi": "ラブリーピンク(桃井愛莉)",
+  "memoria_shizuku": "オパールグリーン(日野森雫)",
+
+  "memoria_kohane": "スリーズメモリア(小豆沢こはね)",
+  "memoria_an": "ターコイズブルーメモリア(白石杏)",
+  "memoria_akito": "ジョリーコーラルメモリア(東雲彰人)",
+  "memoria_toya": "ロイヤルブルーメモリア(青柳冬弥)",
+
+  "memoria_tsukasa": "サンフラワーメモリア(天馬司)",
+  "memoria_emu": "ポカポカピンクメモリア(鳳えむ)",
+  "memoria_nene": "スプリンググリーンメモリア(草薙寧々)",
+  "memoria_rui": "カンパヌラパープルメモリア(神代類)",
+
+  "memoria_kanade": "ファリダメモリア(宵崎奏)",
+  "memoria_mafuyu": "ウィスタリアメモリア(朝比奈まふゆ)",
+  "memoria_ena": "キャメルメモリア(東雲絵名)",
+  "memoria_mizuki": "シッスルメモリア(暁山瑞希)",
+
+  "memoria_miku": "ブルーグリーンメモリア(初音ミク)",
+  "memoria_rin": "オレンジメモリア(鏡音リン)",
+  "memoria_len": "イエローメモリア(鏡音レン)",
+  "memoria_luka": "ピンクメモリア(巡音ルカ)",
+  "memoria_meiko": "レッドメモリア(MEIKO)",
+  "memoria_kaito": "ブルーメモリア(KAITO)"
+}
